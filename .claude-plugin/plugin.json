@@ -1,0 +1,13 @@
+{
+  "name": "shopify-polaris",
+  "description": "Teaches Claude Code the full Shopify Polaris web component library (<s-*> custom elements) for building Shopify App Home UIs. Covers all 46 components with props, events, slots, and examples.",
+  "version": "1.0.0",
+  "author": {
+    "name": "narutorabby",
+    "url": "https://github.com/narutorabby"
+  },
+  "homepage": "https://github.com/narutorabby/shopify-polaris-claude-plugin",
+  "repository": "https://github.com/narutorabby/shopify-polaris-claude-plugin",
+  "license": "MIT",
+  "keywords": ["shopify", "polaris", "web-components", "app-home", "remix"]
+}
